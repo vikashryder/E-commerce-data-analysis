@@ -4,8 +4,7 @@ E-commerce data analysis
 
 Data Input
 ----------
-Data Attached is a typical data of an e-commerce website. Please do the analysis and optimize it for storage area (i.e. storage area is expensive so we want to keep the products which give us the best revenue). Please keep in mind that fast delivery is also critical so we like to help the retailer by predicting the amount of sold product.
-There are missing values in the data, please optimize it by doing the analysis.
+Data Attached is a typical data of an e-commerce website. The analysis and optimization for storage area (i.e. storage area is expensive so we want to keep the products which give us the best revenue). Keeping in mind that fast delivery is also critical so we like to help the retailer by predicting the amount of sold product. There are missing values in the data, optimization is done by doing the analysis.
 
 **Please note the assignment is done in Python. Use the below data dictionary for your reference:**
 
