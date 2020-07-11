@@ -20,8 +20,8 @@ There are missing values in the data, please optimize it by doing the analysis.
 
 Model Training
 ---------
-Linear Regression
-Decision Tree Regression
-Random Forest Regression
+    Linear Regression
+    Decision Tree Regression
+    Random Forest Regression
 
 Author @vikashryder
